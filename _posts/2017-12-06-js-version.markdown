@@ -1,5 +1,17 @@
-### 关于EJB的了解
-@(EJB)[J2EE|服务集群|业务逻辑|Markdown]
+---
+layout:     post
+title:      "Example Post"
+subtitle:   "关于EJB的了解"
+date:       2017-12-06
+author:     "Alenfitz"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - EJB
+    - J2EE
+    - 服务集群
+    - 业务逻辑
+---
+
 **EJB**的概念:
 - **官方解释**: 商务软件的核心部分是它的业务逻辑。业务逻辑抽象了整个商务过程的流程，并使用计算机语言将他们实现。
 .........
