@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Example Post"
-subtitle:   "关于EJB的了解"
+title:      "关于EJB的了解"
+subtitle:   "What's EJB and how to understand it ?"
 date:       2017-12-06
 author:     "Alenfitz"
 header-img: "img/post-bg-js-version.jpg"
